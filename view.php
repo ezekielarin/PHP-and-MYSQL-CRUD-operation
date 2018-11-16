@@ -14,6 +14,7 @@ include "database.php";
 	<a href="view.php">view</a>
 </nav>
 <body>
+	<h3>Read data From database </h3>
 
 	<table border="1" cellpadding="1" class="table">
 		<tr>
