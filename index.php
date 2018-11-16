@@ -14,7 +14,7 @@
 		<p>images, font sizes, etc..</p>
 	</div>
 	<div>
-		<img src="" height="" width="">
+		<img src="" height="" width="" alt="some images">
 		<ul>
 			<li>the use of forms</li>
 			<li>input</li>
